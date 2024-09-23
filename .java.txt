@@ -1,0 +1,9 @@
+class java{
+
+public static void main string[]args{
+
+java j1= new java();
+
+System.out.println("uttekhand");
+}
+}
